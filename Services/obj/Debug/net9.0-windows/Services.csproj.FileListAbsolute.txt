@@ -1,0 +1,11 @@
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\bin\Debug\net9.0-windows\Services.deps.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\bin\Debug\net9.0-windows\Services.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\bin\Debug\net9.0-windows\Services.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.AssemblyInfoInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.AssemblyInfo.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.csproj.CoreCompileInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\refint\Services.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\Services.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Services\obj\Debug\net9.0-windows\ref\Services.dll

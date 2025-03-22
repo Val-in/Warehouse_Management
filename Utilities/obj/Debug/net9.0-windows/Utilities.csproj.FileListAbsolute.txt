@@ -1,0 +1,11 @@
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\bin\Debug\net9.0-windows\Utilities.deps.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\bin\Debug\net9.0-windows\Utilities.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\bin\Debug\net9.0-windows\Utilities.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.AssemblyInfoInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.AssemblyInfo.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.csproj.CoreCompileInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\refint\Utilities.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\Utilities.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Utilities\obj\Debug\net9.0-windows\ref\Utilities.dll

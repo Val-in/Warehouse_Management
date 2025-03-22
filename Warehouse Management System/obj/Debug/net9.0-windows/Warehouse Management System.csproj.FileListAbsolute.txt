@@ -1,0 +1,29 @@
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.exe
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.deps.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.runtimeconfig.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\App.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System_MarkupCompile.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System_MarkupCompile.lref
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\MainWindow.baml
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.g.resources
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.AssemblyInfoInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.AssemblyInfo.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.csproj.CoreCompileInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\refint\Warehouse Management System.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.genruntimeconfig.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\ref\Warehouse Management System.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.csproj.AssemblyReference.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\EmployeeView.baml
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\AppStyles.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\ControlTemplates.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\EmployeeView.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\OrderView.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\ProductView.g.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\WarehouseView.g.cs

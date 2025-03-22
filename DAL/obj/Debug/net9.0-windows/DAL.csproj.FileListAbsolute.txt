@@ -1,0 +1,17 @@
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.deps.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.AssemblyReference.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfoInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfo.cs
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\refint\DAL.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\ref\DAL.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.runtimeconfig.json
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\Core.dll
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\Core.pdb
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.Up2Date
+D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.genruntimeconfig.cache
