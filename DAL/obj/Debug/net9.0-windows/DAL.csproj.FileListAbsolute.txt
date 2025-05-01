@@ -15,3 +15,21 @@ D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\Core.pdb
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.Up2Date
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.genruntimeconfig.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.deps.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.runtimeconfig.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\DAL.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\bin\Debug\net9.0-windows\Core.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.AssemblyReference.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfoInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.AssemblyInfo.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.sourcelink.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.csproj.Up2Date
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\refint\DAL.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\DAL.genruntimeconfig.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\DAL\obj\Debug\net9.0-windows\ref\DAL.dll

@@ -9,3 +9,15 @@ D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Core
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\refint\Core.dll
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.pdb
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\ref\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\bin\Debug\net9.0-windows\Core.deps.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\bin\Debug\net9.0-windows\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\bin\Debug\net9.0-windows\Core.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.AssemblyInfoInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.AssemblyInfo.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.sourcelink.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\refint\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\Core.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Core\obj\Debug\net9.0-windows\ref\Core.dll

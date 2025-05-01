@@ -27,3 +27,103 @@ D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Ware
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\OrderView.g.cs
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\ProductView.g.cs
 D:\本机个人文件\Programming\C#\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\WarehouseView.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.csproj.AssemblyReference.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\EmployeeView.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\AppStyles.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\ControlTemplates.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\EmployeeView.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\OrderView.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\ProductView.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\WarehouseView.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\App.g.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System_MarkupCompile.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System_MarkupCompile.lref
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.exe
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.deps.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.runtimeconfig.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Warehouse Management System.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Azure.Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Azure.Identity.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Diagnostics.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Hosting.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\System.ClientModel.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\System.Memory.Data.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Core.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\DAL.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\DAL.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0-windows\Core.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\AppStyles.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Resources\ControlTemplates.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\MainWindow.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\OrderView.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\ProductView.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Views\WarehouseView.baml
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.g.resources
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.AssemblyInfoInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.AssemblyInfo.cs
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.sourcelink.json
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehous.93145F21.Up2Date
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\refint\Warehouse Management System.dll
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.pdb
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\Warehouse Management System.genruntimeconfig.cache
+D:\Personal\Programming\C sharp\MyProjects\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0-windows\ref\Warehouse Management System.dll
