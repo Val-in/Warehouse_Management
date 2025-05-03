@@ -2,8 +2,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DAL;
 
-/*предоставляют механизм для гибкого создания экземпляров DbContext,
- особенно когда нужно учитывать разные конфигурации или особенности взаимодействия с базой данных.*/
+/* Это позволяет нам создавать новый независимый экземпляр AppDbContext,
+ позволяет учитывать разные конфигурации или особенности взаимодействия с БД*/
 public class AppDbContextFactory : IAppDbContextFactory
 {
     private readonly DbContextOptions<AppDbContext> _options;

@@ -2,7 +2,7 @@ using Core.Enums;
 
 namespace DAL.Entities;
 
-public class Employee 
+public class Employee //сущности, которые соответсвуют таблицам в БД и отображаются в models 
 {
     public int Id { get; set; }
     public string FirstName { get; set; }

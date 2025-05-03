@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Repositories;
 
-public class EmployeeRepository : IEmployeeRepository // методы для работы с данными
+public class EmployeeRepository : IEmployeeRepository // методы для работы с данными внутри БД, работают только с данными
 {
     private readonly AppDbContext _context;
 

@@ -6,7 +6,7 @@ using System.Windows;
 namespace Warehouse_Management_System;
 
 /// <summary>
-/// Interaction logic for App.xaml
+/// Interaction logic for App.xaml, общая логика всего приложения
 /// </summary>
 public partial class App : Application
 {

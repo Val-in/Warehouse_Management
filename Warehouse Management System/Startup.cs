@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace Warehouse_Management_System;
 
-public class Startup
+public class Startup // подключаем тут БД
 {
     public IConfiguration Configuration { get; }
 
