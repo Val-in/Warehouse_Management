@@ -1,8 +1,10 @@
+using Core.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using DAL;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using Services;
 
 namespace Warehouse_Management_System;
 
@@ -19,5 +21,6 @@ public class Startup // подключаем тут БД
     {
         services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         services.AddScoped<IAppDbContextFactory, AppDbContextFactory>();
+        services.AddScoped<IProductService, ProductService>();
     }
 }

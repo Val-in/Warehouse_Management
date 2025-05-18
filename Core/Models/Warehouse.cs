@@ -10,6 +10,5 @@ public class Warehouse
     
     public List<Employee> Employees { get; set; }
     
-    
     public Guid OrderId { get; set; }
 }

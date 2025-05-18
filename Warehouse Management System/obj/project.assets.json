@@ -1697,6 +1697,23 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Core": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -4265,6 +4282,11 @@
       "type": "project",
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4275,7 +4297,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 9.0.2",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 9.0.2",
-      "Microsoft.Extensions.Hosting >= 9.0.2"
+      "Microsoft.Extensions.Hosting >= 9.0.2",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4313,6 +4336,9 @@
           "projectReferences": {
             "D:\\Personal\\Programming\\C sharp\\MyProjects\\Warehouse Management System\\DAL\\DAL.csproj": {
               "projectPath": "D:\\Personal\\Programming\\C sharp\\MyProjects\\Warehouse Management System\\DAL\\DAL.csproj"
+            },
+            "D:\\Personal\\Programming\\C sharp\\MyProjects\\Warehouse Management System\\Services\\Services.csproj": {
+              "projectPath": "D:\\Personal\\Programming\\C sharp\\MyProjects\\Warehouse Management System\\Services\\Services.csproj"
             }
           }
         }
