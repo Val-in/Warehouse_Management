@@ -15,4 +15,11 @@ public class Employee //сущности, которые соответсвую�
     public UserRole Role { get; set; }
     
     public ICollection<Order> Orders { get; set; } //навигационное свойство для связи с order в репозитории
+    
+    public string Email { get; set; }
+
+    public string FullName
+    {
+        get => $"{FirstName} {LastName}";
+    }
 }

@@ -7,5 +7,7 @@ public interface INotificationService //методы, реализованные
     void SendOrderNotification(Order order);
     void SendEmail(string to, string subject, string message);
     void SendInAppNotification(int userId, string message);
+    
+    List<Notification> GetAllNotifications();
 
 }

@@ -5,5 +5,5 @@ public enum OrderStatus
         Created,
         InProgress,
         Completed,
-        Cancelled
+        Canceled
     }

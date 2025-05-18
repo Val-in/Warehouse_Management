@@ -9,6 +9,7 @@ public class AppDbContext : DbContext //связь моделей и бд
     public DbSet<Order> Orders { get; set; }
     public DbSet<Product> Products { get; set; }
     public DbSet<Warehouse> Warehouses { get; set; }
+    public DbSet<Notification> Notifications { get; set; }
 
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {}
 

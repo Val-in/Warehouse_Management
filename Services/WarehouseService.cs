@@ -1,3 +1,4 @@
+using System.Data.Common;
 using Core.Interfaces;
 using Core.Models;
 using DAL;
@@ -17,9 +18,14 @@ public class WarehouseService : IWarehouseService
 
     public void AddWarehouse(Warehouse warehouse)
     {
-        var newWarehouse = _context.Warehouses.Find(Id) ?? throw new InvalidOperationException($"Warehouse with id {Id} is not found");
-        warehouse.Id = Id;
+        var entity = new DAL.Entities.Warehouse
+        {
+            Name = warehouse.Name,
+            Location = warehouse.Location
+        };
+        _context.Warehouses.Add(entity);
         _context.SaveChanges();
+        warehouse.Id = entity.Id;
     }
 
     public void UpdateWarehouse(Warehouse warehouse)
@@ -28,22 +34,26 @@ public class WarehouseService : IWarehouseService
         
         warehouseDb.Name = warehouse.Name;
         warehouseDb.Location = warehouse.Location;
-        warehouseDb.ProductId = warehouse.ProductId;
-        warehouseDb.Employees = warehouse.Employees; 
-        warehouseDb.Id = warehouse.Id;
-        warehouseDb.OrderId = warehouse.OrderId;
         _context.SaveChanges();
     }
 
     public void DeleteWarehouse(Warehouse warehouse)
     {
-        var delWarehouse = _context.Warehouses.Find(Id) ?? throw new InvalidOperationException($"Warehouse with id {Id} is not found");
+        var delWarehouse = _context.Warehouses.Find(warehouse.Id) ?? throw new InvalidOperationException($"Warehouse with id {warehouse.Id} is not found");
         _context.Warehouses.Remove(delWarehouse);
         _context.SaveChanges();
     }
 
     public List<Warehouse> GetAllWarehouses()
     {
-        return _context.Warehouses.Include(x => x.Warehouse).ToList();
+        return _context.Warehouses
+            .Select(w => new Warehouse
+            {
+                Id       = w.Id,
+                Name     = w.Name,
+                Location = w.Location,
+            })
+            .ToList();
+
     }
 }

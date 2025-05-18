@@ -36,10 +36,20 @@ public class ProductService : IProductService
         _context.SaveChanges();
     }
 
-    public void AddProduct(Product product)
+    public void AddProduct(Product product) //product из core == entity из DAL
     {
-        _context.Products.Add(product);
+        var entity = new DAL.Entities.Product
+        {
+            Name = product.Name,
+            Price = product.Price,
+            Quantity = product.Quantity,
+            WarehouseId = product.WarehouseId,
+            Description = product.Description,
+            Id = product.Id
+        };
+        _context.Products.Add(entity);
         _context.SaveChanges();
+        product.Id = entity.Id;
     }
 
     public void UpdateProduct(Product product)
@@ -66,6 +76,18 @@ public class ProductService : IProductService
 
     public List<Product> GetAllProducts() //через db обращаемся к entities, если без db, то обращаемся к модели
     {
-        return _context.Products.Include(x => x.Warehouse).ToList();
+        return _context.Products
+            .Include(p => p.Warehouse)
+            .Select(p => new Product
+            {
+                Id          = p.Id,
+                Name        = p.Name,
+                Description = p.Description,
+                Price       = p.Price,
+                Quantity    = p.Quantity,
+                WarehouseId = p.WarehouseId,
+                OrderId     = p.OrderId
+            })
+            .ToList();
     }
 }

@@ -22,5 +22,9 @@ public class Startup // подключаем тут БД
         services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         services.AddScoped<IAppDbContextFactory, AppDbContextFactory>();
         services.AddScoped<IProductService, ProductService>();
+        services.AddScoped<INotificationService, NotificationService>();
+        services.AddScoped<IOrderService, OrderService>();
+        services.AddScoped<IWarehouseService, WarehouseService>();
+        
     }
 }
