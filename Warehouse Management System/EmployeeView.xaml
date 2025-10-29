@@ -1,0 +1,53 @@
+<Window x:Class="Warehouse_Management_System.EmployeeView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Warehouse_Management_System"
+      mc:Ignorable="d"
+      Background="#ECF0F1"
+      Title="EmployeeView" Height="450" Width="800">
+    
+    <DockPanel Margin="10">
+
+        <!-- Header -->
+        <TextBlock Text="Сотрудники" FontSize="24" FontWeight="Bold" DockPanel.Dock="Top" Margin="0,0,0,10" />
+
+        <!-- Buttons -->
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,10">
+            <Button Content="Добавить" Background="Gold" Foreground="White" Margin="0,0,10,0" />
+            <Button Content="Редактировать" Background="Gold" Foreground="White" Margin="0,0,10,0" />
+            <Button Content="Удалить" Background="Gold" Foreground="White" />
+        </StackPanel>
+
+        <!-- Main DataGrid -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="300" />
+            </Grid.ColumnDefinitions>
+
+            <DataGrid Grid.Column="0" AutoGenerateColumns="False" Margin="0,0,10,0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}" />
+                    <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}" />
+                    <DataGridTextColumn Header="Возраст" Binding="{Binding Age}" />
+                    <DataGridTextColumn Header="Отдел" Binding="{Binding Department}" />
+                    <DataGridTextColumn Header="Роль" Binding="{Binding Role}" />
+                    <DataGridTextColumn Header="Склад" Binding="{Binding WarehouseName}" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- Filter Panel -->
+            <StackPanel Grid.Column="1" Background="#FFFFFF" Orientation="Vertical" VerticalAlignment="Top">
+                <TextBlock Text="Фильтр" FontWeight="Bold" Margin="0,0,0,10" />
+                <TextBlock Text="Отдел:" />
+                <ComboBox x:Name="DepartmentFilter" Margin="0,0,0,10" />
+                <TextBlock Text="Склад:" />
+                <ComboBox x:Name="WarehouseFilter" Margin="0,0,0,10" />
+                <Button Content="Применить фильтр" Background="Gold" Foreground="White" />
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>
